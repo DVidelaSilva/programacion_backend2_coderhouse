@@ -23,6 +23,9 @@ const PORT = configObject.port
 
 
 connectDB()
+connectDB()
+connectDB()
+connectDB()
 
 
 app.use(express.json())
