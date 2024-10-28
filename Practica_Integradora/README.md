@@ -1,0 +1,4 @@
+ - Proteger las contraseñas con hash
+ - instalar y utilizar JWT
+ - Login register vistas y sus endpoint render
+ - endpoint para login y register (post)
